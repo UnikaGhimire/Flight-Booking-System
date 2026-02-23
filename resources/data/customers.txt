@@ -1,0 +1,2 @@
+john_doe::customer123::john@example.com::+44-7700-900123::false::
+unika123::unika::unika@gmail.com::9842525351::false::
